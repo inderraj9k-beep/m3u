@@ -147,21 +147,19 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/History_TV18_2022.png/revision/latest?cb=20251114123402" tvg-id="HistoryTV18.in@HD" tvg-language="English" group-title="Infotainment",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Destination_America_logo_2017.png" group-title="Infotainment",Destination America
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/1014/761/png-clipart-logo-destination-america-brand-television-channel-design-television-text.png" group-title="Infotainment",Destination America
 http://fl1.moveonjoy.com/Destination_America/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fUU0ZIkqRoDbsSYiSFomiywGa2SOjbh1HxoACHa3nthh0XyCtyNNg_OAlxaD6k1QXr7Y1A-F=s160-c-k-c0x00ffffff-no-rj" tvg-id="DiscoveryChannel.us@SD" group-title="Infotainment",Discovery UK
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-id="National_Geo.us@HD" group-title="Infotainment",Nat Geo HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-channel-logo-png_seeklogo-268048.png" group-title="Infotainment",Discovery Channel
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png" group-title="Infotainment",Discovery Channel
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/1/discovery-family-channel-logo-png_seeklogo-261520.png" group-title="Infotainment",Discovery Family 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/viewpic/hwxmxhh_discovery-family-logo-png-discovery-channel-transparent-png/" group-title="Infotainment",Discovery Family 
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/discovery-life-logo-png_seeklogo-314951.png" group-title="Infotainment",Discovery LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest/scale-to-width-down/1000?cb=20240601030018" group-title="Infotainment",DISNEY JR
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/39/56/c1/3956c1d3f0558d13f4efe119e619d704.jpg" group-title="Infotainment",DISNEY JR
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://admin.itsnicethat.com/images/JxdIg1kn-UL1cbGABqBGoi187-I=/245704/format-webp%7Cwidth-2880/bbc-studios-creative-bbc-earth-graphic-design-itsnicethat-010.png" tvg-id="BBCEarth.us@SD" group-title="Infotainment",BBC Earth 
@@ -178,7 +176,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YxaykkozcK8iHddSeZQX16gvHngNU83EZI2wGtKWK6gLwf02FqRg8xnKFB-ouMnGT8CBYsfqCQo=s160-c-k-c0x00ffffff-no-rj" group-title="Cartoons",PowerKids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Infotainment",National Geographic
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-id="National_Geo.us@HD" group-title="Infotainment",Nat Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/284-2843034_source-national-geographic-logo-white.png" group-title="Infotainment",National Geographic
 http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://ngalarabiya.com/Content/NatGeo/images/logo.png" group-title="Infotainment",National Geographic NonEng
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
@@ -195,25 +196,25 @@ https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Hindi",Colors HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Hindi",Colors HD
 https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-#EXTINF:-1  tvg-id="FailArmy.us@US" group-title="Infotainment",Failarmy International (720p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g59kkdeDO4iZjBgNGwU_MN25hDY3Y_949Iu0hx5ARIp-h8qkAU7Hr2q4g4fDW-mwXixiRreu=s160-c-k-c0x00ffffff-no-rj" tvg-id="FailArmy.us@US" group-title="Infotainment",Failarmy International (720p)
 https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="GoUSATV.us@SD" group-title="Infotainment",Go USA TV (720p)
+#EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/america-tv-go-37515.png" tvg-id="GoUSATV.us@SD" group-title="Infotainment",Go USA TV (720p)
 https://brandusa-gousa-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="GrjngoWesternMovies.de@SD" group-title="Eng Movies",Grjngo Western Movies (720p)
-https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="HomesUnderHammer.us@UK" group-title="Eng Movies",Homes Under The Hammer (720p)
+#EXTINF:-1  tvg-id="GrjngoWesternMovies.de@SD" group-title="Western Movies",Grjngo Western Movies (720p)
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8 
+#EXTINF:-1  tvg-id="HomesUnderHammer.us@UK" group-title="Western Movies",Homes Under The Hammer (720p)
 https://all3media-homes-under-the-hammer-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yECM7_PN1KQ_q_EYLZosSG4oOnVj0-Xb_qTrOFW1s15gtiCtlfRLPm_lGI2ZN9XqSCn7xDedDQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="JustforLaughsGags.us@SD" group-title="Gags",Just For Laughs Gags (720p)
 https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Mechplus" group-title="Gags",Mechplus (720p)
 https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="PeopleAreAwesome.us@SD" group-title="Infotainment",People are Awesome (720p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mXFbHSVZAy4XyBhqe9861CL4_pKyPpq2RnmyG0yhgdmto=s160-c-k-c0x00ffffff-no-rj" tvg-id="PeopleAreAwesome.us@SD" group-title="Infotainment",People are Awesome (720p)
 https://jukin-peopleareawesome-2-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="StrongmanChampionsLeague.pl@SD" group-title="Sports",Strongman Champions League (720p)
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/544-5440664_hafthor-julius-bjornsson-thor-strongman-champions-league-hd.png" tvg-id="StrongmanChampionsLeague.pl@SD" group-title="Sports",Strongman Champions League (720p)
 https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="ThePetCollective.us@US" group-title="Infotainment",The Pet Collective International (720p)
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/45efbd0e594025d93dfe74d7f84de557c82c8578337df40269bc4f36d9664379.png" tvg-id="ThePetCollective.us@US" group-title="Infotainment",The Pet Collective International (720p)
 https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 
 
