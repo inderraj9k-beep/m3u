@@ -155,9 +155,9 @@ http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/510-5100449_discovery-channel-logo-2017-png-download-logo-discovery.png" group-title="Infotainment",Discovery Channel
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/viewpic/hwxmxhh_discovery-family-logo-png-discovery-channel-transparent-png/" group-title="Infotainment",Discovery Family 
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/510-5105858_discovery-family-logo-png-discovery-channel-transparent-png.png" group-title="Infotainment",Discovery Family 
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/discovery-life-logo-png_seeklogo-314951.png" group-title="Infotainment",Discovery LIFE
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/134-1341779_discovery-life-channel-us-logo-discovery-life-channel.png" group-title="Infotainment",Discovery LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/39/56/c1/3956c1d3f0558d13f4efe119e619d704.jpg" group-title="Infotainment",DISNEY JR
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -177,22 +177,22 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YxaykkozcK8iHddSeZQX16gvHngNU83EZI2wGtKWK6gLwf02FqRg8xnKFB-ouMnGT8CBYsfqCQo=s160-c-k-c0x00ffffff-no-rj" group-title="Cartoons",PowerKids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-id="National_Geo.us@HD" group-title="Infotainment",Nat Geo HD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Channel-Logo-2005-2016.png" tvg-id="National_Geo.us@HD" group-title="Infotainment",Nat Geo HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/284-2843034_source-national-geographic-logo-white.png" group-title="Infotainment",National Geographic
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo-2016-present.jpg" group-title="Infotainment",National Geographic
 http://163.61.227.29:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://ngalarabiya.com/Content/NatGeo/images/logo.png" group-title="Infotainment",National Geographic NonEng
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/IMG_9352.png/revision/latest?cb=20250827132500" group-title="Cricket", Sky SPORT Cricket HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/IMG_9352.png/revision/latest?cb=20250827132500" group-title="Sports", Sky Sports Cricket HD
 http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931" group-title="Cricket", Sky Cricket 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931" group-title="Sports", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9B_PYEiy_ldQxG-y4N5i2Q0bP5aUdXsaivOIwMrQLxgLDrJG34vbtawNGxvhvhuXmPdBJEw3KIc=s160-c-k-c0x00ffffff-no-rj" group-title="Cricket",Willow byCricbuzz
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9B_PYEiy_ldQxG-y4N5i2Q0bP5aUdXsaivOIwMrQLxgLDrJG34vbtawNGxvhvhuXmPdBJEw3KIc=s160-c-k-c0x00ffffff-no-rj" group-title="Sports",Willow byCricbuzz
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/229-2296765_kings-xi-punjab-vs-delhi-daredevils-willow-tv.png" group-title="Cricket", Willow USA SPORT HD 
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/229-2296765_kings-xi-punjab-vs-delhi-daredevils-willow-tv.png" group-title="Sports", Willow USA SPORT HD 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Willow_TV_2013.png/revision/latest/scale-to-width-down/1000?cb=20231002182908" group-title="Cricket", Willow Hotstar HD 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Willow_TV_2013.png/revision/latest/scale-to-width-down/1000?cb=20231002182908" group-title="Sports", Willow Hotstar HD 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 
 
@@ -200,7 +200,7 @@ https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/g59kkdeDO4iZjBgNGwU_MN25hDY3Y_949Iu0hx5ARIp-h8qkAU7Hr2q4g4fDW-mwXixiRreu=s160-c-k-c0x00ffffff-no-rj" tvg-id="FailArmy.us@US" group-title="Infotainment",Failarmy International (720p)
 https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logosenvector.com/logo/img/america-tv-go-37515.png" tvg-id="GoUSATV.us@SD" group-title="Infotainment",Go USA TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x90ALip.png" tvg-id="GoUSATV.us@SD" group-title="Infotainment",Go USA TV (720p)
 https://brandusa-gousa-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="GrjngoWesternMovies.de@SD" group-title="Western Movies",Grjngo Western Movies (720p)
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8 
