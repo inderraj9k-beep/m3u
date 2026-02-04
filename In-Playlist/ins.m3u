@@ -157,7 +157,7 @@ http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/510-5105858_discovery-family-logo-png-discovery-channel-transparent-png.png" group-title="Infotainment",Discovery Family 
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/134-1341779_discovery-life-channel-us-logo-discovery-life-channel.png" group-title="Infotainment",Discovery LIFE
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180704/sqx/kisspng-discovery-life-discovery-inc-television-channel-discovery-hd-showcase-5b3cb64f779b71.6551165315307054874899.jpg" group-title="Infotainment",Discovery LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/39/56/c1/3956c1d3f0558d13f4efe119e619d704.jpg" group-title="Infotainment",DISNEY JR
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -170,7 +170,7 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9r-EPV9M42u-XrhAYadkGPWr17rsyX3-02QyCPVqnmZl0lyHpcUctHG8M1Kc3L9M2k-US7RA=s160-c-k-c0x00ffffff-no-rj" tvg-id="WildEarth.us@SD" group-title="Infotainment",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="Cartoons",Motu Patlu
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/6f/bb/04/6fbb04c3c38bc1777a907c68fa093009.jpg" group-title="Cartoons",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w" group-title="Cartoons",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
