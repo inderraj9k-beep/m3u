@@ -16,202 +16,202 @@ https://cdn-1.pishow.tv/live/407/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg/revision/latest?cb=20191226132633" tvg-id="BhakthiTV.in@SD" tvg-language="Telugu" group-title="Telugu",Bhakthi TV (720p)
 https://cdn-1.pishow.tv/live/397/master.m3u8
 
-#EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-language="English" group-title="English",CVR English (720p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/t5V0y3DnbZGMLISvRDilq8SLIHHOnVZz72KSGtz5NDiwZ7mVk3l4oKu_RwMMi-j7xvQRlU8H9w=s160-c-k-c0x00ffffff-no-rj" tvg-id="CVREnglish.in@SD" tvg-language="English" group-title="English",CVR English (720p)
 https://cdn-2.pishow.tv/live/425/master.m3u8
-#EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-language="Telugu" group-title="Telugu",CVR Health (576p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OBQBhykEzAzva6eKSwg0R6qo4O4T9oWInanz9SKjvuTi-xnwpeoTtv4fHYVoFj9XpX6kdmntUA=s160-c-k-c0x00ffffff-no-rj" tvg-id="CVRHealth.in@SD" tvg-language="Telugu" group-title="Telugu",CVR Health (576p)
 https://cdn-6.pishow.tv/live/395/master.m3u8
-#EXTINF:-1 tvg-id="CVRNews.in@SD" tvg-language="Telugu" group-title="Telugu",CVR News (576p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rLMxjcF0KpUjEgh2gcCswz0RAZrYJcZOTycaqQVacqwD1MdquheRyjqfi_18AnnKovbFRkUrPw=s160-c-k-c0x00ffffff-no-rj" tvg-id="CVRNews.in@SD" tvg-language="Telugu" group-title="Telugu",CVR News (576p)
 https://mumt04.tangotv.in/CVRNEWS/index.m3u8
-#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" tvg-language="Telugu" group-title="Telugu",CVR OM Spiritual (576p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hBTItOZ5hkhhCDyiccySFRj65vlk3tZrbU1afWGL5z9A5xlO41fhG9EA_5OCnHih4KLpi_0uTA=s160-c-k-c0x00ffffff-no-rj" tvg-id="CVROMSpiritual.in@SD" tvg-language="Telugu" group-title="Telugu",CVR OM Spiritual (576p)
 https://cdn-1.pishow.tv/live/957/master.m3u8
 
-#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-language="Hindi" group-title="Hindi",DD India (1080p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4P1ivBexovhw7shJQPtzDWWsnRdSqUUyds7mCnZ4x573G-b4gk9DRNAZ1UYSTa-fx2NcKdck0CQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="DDIndia.in@SD" tvg-language="Hindi" group-title="Hindi",DD India (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-language="Hindi" group-title="Hindi",DD Kisan (720p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JWh-x9MIrdjXUHzYEJxXjDhCE74Nm2dxVEom3hURrX6WdnIDhEgL5nCpWYTcrvugfBo5_iXrGQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="DDKisan.in@SD" tvg-language="Hindi" group-title="Hindi",DD Kisan (720p)
 https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-language="Hindi" group-title="Hindi",DD National HD (1080p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vTanNfm4NGP8GesWbJhvw_hpBlc9qQnaITpGjlU4ODUldwoV-p-L2hOWL0aN5whB_1AIGiocLA=s160-c-k-c0x00ffffff-no-rj" tvg-id="DDNational.in@HD" tvg-language="Hindi" group-title="Hindi",DD National HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-language="Hindi" group-title="Hindi",DD News (1080p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/boJiw31wL-Q7F24kbNug_a7Jr433SUKG32Qg6Saq9b48bCDj5Zlj2wo9cRx3oZ0vCr3L7A_rgw=s160-c-k-c0x00ffffff-no-rj" tvg-id="DDNews.in@SD" tvg-language="Hindi" group-title="Hindi",DD News (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-language="Hindi" group-title="Hindi",DD Sahyadri
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/khVUhkN-lnIN3RWAlAXqKm4ucklhb7xBYoiVr06toWXlxbZyFGu4Vh6m2x7ZZouNDxdZ9ufvrw=s160-c-k-c0x00ffffff-no-rj" tvg-id="DDSahyadri.in@SD" tvg-language="Hindi" group-title="Hindi",DD Sahyadri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
-#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-language="Telugu" group-title="Telugu",DD Saptagiri
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/te/6/68/DD_Saptagiri_New_logo.jpg" tvg-id="DDSaptagiri.in@SD" tvg-language="Telugu" group-title="Telugu",DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-language="English" group-title="Sports",DD Sports (720p)
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7fbf0410e7b133f9bf8e6468dfe3996e.png" tvg-id="DDSports.in@SD" tvg-language="English" group-title="Sports",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-language="Telugu" group-title="Telugu",DD Yadagiri (576p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrT1o5lP6mpaqKTIXI2ZNP2IasvVMVxDfYsslPr640tg&s" tvg-id="DDYadagiri.in@SD" tvg-language="Telugu" group-title="Telugu",DD Yadagiri (576p)
 https://cdn-1.pishow.tv/live/21/master.m3u8
 
-#EXTINF:-1 tvg-id="ETVAbhiruchi.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Abhiruchi (1080p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ohjpu0md3-6BSm-WFsdYN5C6Nc80wVMQbv0Qz7G7NGTWjQgbgQcl0hqkQOfrSrs9b2clrhOyEA=s160-c-k-c0x00ffffff-no-rj" tvg-id="ETVAbhiruchi.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Abhiruchi (1080p)
 https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
-#EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Andhra Pradesh (1080p)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VaQ2xMdQoDws4D6U9ekGeRNx88ah1QHKCXJYlaVzdEuxEeV_exnqc-O0SLjCTRncZMIxNSPQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="ETVAndhraPradesh.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Andhra Pradesh (1080p)
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVCinema.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Cinema HD (1080p)
+#EXTINF:-1 tvg-logo=https://yt3.googleusercontent.com/UZQ-r8HXRNjuNNfrh6txKpvqorHl4WJQV2LoXaZLh7HI_P27G64M7CbpAVEFTnCxYTWsT78bqck=s160-c-k-c0x00ffffff-no-rj " tvg-id="ETVCinema.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Cinema HD (1080p)
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVComedy.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Comedy (1080p)
+#EXTINF:-1 tvg-logo="" tvg-id="ETVComedy.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVJosh.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Josh (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVJosh.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Josh (1080p)
 https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVLife.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Life (480p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVLife.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Life (480p)
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVMusic.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Music (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVMusic.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Music (1080p)
 https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVNews.in@HD" tvg-language="Telugu" group-title="Telugu",ETV News (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVNews.in@HD" tvg-language="Telugu" group-title="Telugu",ETV News (1080p)
 https://cc-3448kp65yhc5w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/WWBI/Amagi/ETV_News_IN/playlist.m3u8
-#EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Plus HD (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVPlus.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Plus HD (1080p)
 https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVTelangana.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Telangana (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVTelangana.in@SD" tvg-language="Telugu" group-title="Telugu",ETV Telangana (1080p)
 https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="ETVTelugu.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Telugu HD (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ETVTelugu.in@HD" tvg-language="Telugu" group-title="Telugu",ETV Telugu HD (1080p)
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
 
-#EXTINF:-1 tvg-id="GeminiComedy.in@SD" tvg-language="Telugu" group-title="Telugu",Gemini Comedy (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo=" " tvg-id="GeminiComedy.in@SD" tvg-language="Telugu" group-title="Telugu",Gemini Comedy (360p) [Not 24/7]
 http://103.140.254.2:3500/live/729.m3u8
-#EXTINF:-1 tvg-id="GeminiLife.in@SD" tvg-language="Telugu" group-title="Telugu",Gemini Life (360p)
+#EXTINF:-1 tvg-logo=" " tvg-id="GeminiLife.in@SD" tvg-language="Telugu" group-title="Telugu",Gemini Life (360p)
 http://103.140.254.2:3500/live/684.m3u8
-#EXTINF:-1 tvg-id="GeminiMovies.in@HD" tvg-language="Telugu" group-title="Telugu",Gemini Movies (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="GeminiMovies.in@HD" tvg-language="Telugu" group-title="Telugu",Gemini Movies (1080p)
 http://103.167.255.18:8085/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-id="GeminiTV.in@HD" tvg-language="Telugu" group-title="Telugu",Gemini TV (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="GeminiTV.in@HD" tvg-language="Telugu" group-title="Telugu",Gemini TV (1080p)
 https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
 
-#EXTINF:-1 tvg-id="HinduDharmam.in@SD" tvg-language="Telugu" group-title="Telugu",Hindu Dharmam (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="HinduDharmam.in@SD" tvg-language="Telugu" group-title="Telugu",Hindu Dharmam (576p)
 https://cdn-1.pishow.tv/live/959/master.m3u8
-#EXTINF:-1 tvg-id="HMTV.in@SD" tvg-language="Telugu" group-title="Telugu",HMTV (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="HMTV.in@SD" tvg-language="Telugu" group-title="Telugu",HMTV (720p)
 https://cdn-1.pishow.tv/live/280/master.m3u8
 
-#EXTINF:-1 tvg-id="INews.in@SD" tvg-language="Telugu" group-title="Telugu",INews (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="INews.in@SD" tvg-language="Telugu" group-title="Telugu",INews (720p)
 https://cdn-1.pishow.tv/live/411/master.m3u8
 
-#EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-language="Telugu" group-title="Telugu",Mahaa News (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="MahaaNews.in@SD" tvg-language="Telugu" group-title="Telugu",Mahaa News (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-news/index.m3u8
-#EXTINF:-1 tvg-id="MangoMobileTV.in@HD" tvg-language="Telugu" group-title="Telugu",Mango Mobile TV (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="MangoMobileTV.in@HD" tvg-language="Telugu" group-title="Telugu",Mango Mobile TV (1080p)
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/cb7c3e1a7b736f8a93ca3f6cd1a212f1d10f31d4033a853466ae5e9020c6175383eea5c9e41ee63d7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee5595bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578523a7429597f589ce108385907ea856e4654401232d9bcd78c59f0ab3d99c396bc4752e74083f89cb05216346e46e6d1e9dd6c5bb6cfe61a1e347a053477084052dfe54ab78a308dd8d260b2696ad246c2ca9c65a6865d58d627cd64751904e81c9c4dc7b7d8bf7077053db6c924a415ec4ad9b44dc9b47d5de8be4c5acc099b7d736c8bdcb78da4f4687c417ea8d98b92e4b4f2c2f0d8a56a38e6ce1e4bc12a7e31c3b554148acd5008ad69916076b41828f49c753358d9bdad3915e608a571254be34821b1d3a987d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf428a652e560fb6bd7d0b11022d9ebe285d704ac243e5c1c3ae225a57a2a49b8cb5395230301956039cf1a721cbfca7072956900368300e537df023d966d80c4c7a5eea16c1a30471c54b611aefa93b524d7fd4af958494ddde4ba575b09ea561cf5abd84549f635bb992d2d50d4afccf5b4548c84b95cb/188/1920x1080_4300000/index.m3u8
-#EXTINF:-1 tvg-id="MangoMobileTV.in@SD" tvg-language="Telugu" group-title="Telugu",Mango TV (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="MangoMobileTV.in@SD" tvg-language="Telugu" group-title="Telugu",Mango TV (1080p)
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.in@SD" tvg-language="Telugu" group-title="Telugu",Metro TV (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="MetroTV.in@SD" tvg-language="Telugu" group-title="Telugu",Metro TV (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.in@HD" tvg-language="Telugu" group-title="Telugu",Metro TV HD (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="MetroTV.in@HD" tvg-language="Telugu" group-title="Telugu",Metro TV HD (1080p)
 https://mercury.streambridge.link:8042/telugu/metrotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="News9Live.in@SD"  tvg-language="Telugu" group-title="Telugu",News9Live (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="News9Live.in@SD"  tvg-language="Telugu" group-title="Telugu",News9Live (720p)
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-language="Telugu" group-title="Telugu",NTV Telugu (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="NTVTelugu.in@SD" tvg-language="Telugu" group-title="Telugu",NTV Telugu (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in@HD" tvg-language="Telugu" group-title="Telugu",NTV Telugu HD(576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="NTVTelugu.in@HD" tvg-language="Telugu" group-title="Telugu",NTV Telugu HD(576p)
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/2b5323d3-fcd1-402e-8b65-9e1983a9a586/0.m3u8
 
-#EXTINF:-1 tvg-id="Prime9News.in@SD" tvg-language="Telugu" group-title="Telugu",Prime9 News (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="Prime9News.in@SD" tvg-language="Telugu" group-title="Telugu",Prime9 News (1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
-#EXTINF:-1 tvg-id="Prime9News.in@HD" tvg-language="Telugu" group-title="Telugu",Prime9 News HD(1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="Prime9News.in@HD" tvg-language="Telugu" group-title="Telugu",Prime9 News HD(1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" tvg-language="Telugu" group-title="Telugu",Raj Musix Telugu (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="RajMusixTelugu.in@SD" tvg-language="Telugu" group-title="Telugu",Raj Musix Telugu (720p)
 https://cdn-1.pishow.tv/live/1213/master.m3u8
-#EXTINF:-1 tvg-id="RajMusixTelugu.in@HD" tvg-language="Telugu" group-title="Telugu",Raj Musix Telugu HD(720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="RajMusixTelugu.in@HD" tvg-language="Telugu" group-title="Telugu",Raj Musix Telugu HD(720p)
 https://cdn-1.pishow.tv/live/1213/1213_1.m3u8
-#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD" tvg-language="Telugu" group-title="Telugu",Raj News Telugu (576p) [Not 24/7]
+#EXTINF:-1 tvg-logo=" " tvg-id="RajNewsTelugu.in@SD" tvg-language="Telugu" group-title="Telugu",Raj News Telugu (576p) [Not 24/7]
 http://103.140.254.2:3500/live/664.m3u8
-#EXTINF:-1 tvg-id="SakshiTV.in@SD" tvg-language="Telugu" group-title="Telugu",Sakshi TV (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="SakshiTV.in@SD" tvg-language="Telugu" group-title="Telugu",Sakshi TV (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
-#EXTINF:-1 tvg-id="StudioOnePlus.in@SD" tvg-language="Telugu" group-title="Telugu",Studio One + (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="StudioOnePlus.in@SD" tvg-language="Telugu" group-title="Telugu",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
-#EXTINF:-1 tvg-id="StudioYuva.in@SD" tvg-language="Telugu" group-title="Telugu",Studio Yuva (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="StudioYuva.in@SD" tvg-language="Telugu" group-title="Telugu",Studio Yuva (576p)
 https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
-#EXTINF:-1 tvg-id="SVBC.in@SD" tvg-language="Telugu" group-title="Telugu",SVBC Sri Venkateswara Bhakti Channel (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="SVBC.in@SD" tvg-language="Telugu" group-title="Telugu",SVBC Sri Venkateswara Bhakti Channel (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNews.in@SD" tvg-language="Telugu" group-title="Telugu",T News (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="TNews.in@SD" tvg-language="Telugu" group-title="Telugu",T News (720p)
 https://cdn-1.pishow.tv/live/385/master.m3u8
-#EXTINF:-1 tvg-id="TeluguOne.in@HD" tvg-language="Telugu" group-title="Telugu",Telugu One (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="TeluguOne.in@HD" tvg-language="Telugu" group-title="Telugu",Telugu One (1080p)
 https://amg02821-amg02821c1-samsung-in-4717.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5News.in@SD" tvg-language="Telugu" group-title="Telugu",TV5 News (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="TV5News.in@SD" tvg-language="Telugu" group-title="Telugu",TV5 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9Telugu.in@SD" tvg-language="Telugu" group-title="Telugu",TV9 Telugu (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="TV9Telugu.in@SD" tvg-language="Telugu" group-title="Telugu",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="V6News.in@SD" tvg-language="Telugu" group-title="Telugu",V6 News (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="V6News.in@SD" tvg-language="Telugu" group-title="Telugu",V6 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
-#EXTINF:-1 tvg-id="VanithaTV.in@SD" tvg-language="Telugu" group-title="Telugu",Vanitha TV (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="VanithaTV.in@SD" tvg-language="Telugu" group-title="Telugu",Vanitha TV (720p)
 https://cdn-1.pishow.tv/live/393/master.m3u8
-#EXTINF:-1 tvg-id="VissaTV.in@SD" tvg-language="Telugu" group-title="Telugu",Vissa TV (576p)
+#EXTINF:-1 tvg-logo=" " tvg-id="VissaTV.in@SD" tvg-language="Telugu" group-title="Telugu",Vissa TV (576p)
 http://103.140.254.2:3500/live/734.m3u8
 
-#EXTINF:-1 tvg-id="ZeeCinemalu.in@HD" tvg-language="Telugu" group-title="Telugu",Zee Cinemalu HD (1080p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ZeeCinemalu.in@HD" tvg-language="Telugu" group-title="Telugu",Zee Cinemalu HD (1080p)
 http://103.167.255.18:8085/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD" tvg-language="Telugu" group-title="Telugu",Zee Telugu News (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ZeeTeluguNews.in@SD" tvg-language="Telugu" group-title="Telugu",Zee Telugu News (720p)
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 
 
-#EXTINF:-1 tvg-id="HistoryTV18.in@SD",History TV18 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo=" " tvg-id="HistoryTV18.in@SD",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo=" " tvg-id="HistoryTV18.in@HD",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Infotainment",Discovery UK
+#EXTINF:-1 tvg-logo=" " tvg-id="DiscoveryChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Infotainment",Discovery UK
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="National_Geo.us@HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Infotainment",Nat Geo HD
+#EXTINF:-1 tvg-logo=" " tvg-id="National_Geo.us@HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Infotainment",Nat Geo HD
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.us@SD" tvg-logo="" group-title="Infotainment",BBC Earth 
+#EXTINF:-1 tvg-logo=" " tvg-id="BBCEarth.us@SD" tvg-logo="" group-title="Infotainment",BBC Earth 
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.us@SD" tvg-logo="" group-title="Infotainment",BBC Earth 
+#EXTINF:-1 tvg-logo=" " tvg-id="BBCEarth.us@SD" tvg-logo="" group-title="Infotainment",BBC Earth 
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.us@SD" tvg-logo="" group-title="Infotainment",BBC Earth
+#EXTINF:-1 tvg-logo=" " tvg-id="BBCEarth.us@SD" tvg-logo="" group-title="Infotainment",BBC Earth
 http://65.108.239.207/bbc/index.m3u8
-#EXTINF:-1 tvg-id="WildEarth.us@SD" tvg-logo="" group-title="Infotainment" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",Wild Earth
+#EXTINF:-1 tvg-logo=" " tvg-id="WildEarth.us@SD" tvg-logo="" group-title="Infotainment" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="Cartoons",Motu Patlu
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="Cartoons",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoons" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Cartoons" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Cartoons",PowerKids
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Cartoons",PowerKids
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",National Geographic
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",National Geographic
 http://163.61.227.29:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",National Geographic NonEng
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",National Geographic NonEng
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket",Willow byCricbuzz
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Cricket",Willow byCricbuzz
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket", Sky Cricket 
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Cricket", Sky Cricket 
 http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket", Willow USA SPORT HD 
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Cricket", Willow USA SPORT HD 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket", Willow Hotstar HD 
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Cricket", Willow Hotstar HD 
 https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket", Sky SPORT Cricket HD
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Cricket", Sky SPORT Cricket HD
 http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Discovery Channel
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",Discovery Channel
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Destination America
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",Destination America
 http://fl1.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",DISCOVERY FAMILY CHANNEL
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",DISCOVERY LIFE
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",DISCOVERY LIFE
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",DISNEY JR
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment",DISNEY JR
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", BBC Earth US
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Wild Nature
+#EXTINF:-1 tvg-logo=" " tvg-logo="" group-title="Infotainment", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Hindi",Colors HD
+#EXTINF:-1 tvg-logo=" " tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Hindi",Colors HD
 https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
-#EXTINF:-1 tvg-id="FailArmy.us@US" group-title="Infotainment",Failarmy International (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="FailArmy.us@US" group-title="Infotainment",Failarmy International (720p)
 https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoUSATV.us@SD" group-title="Infotainment",Go USA TV (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="GoUSATV.us@SD" group-title="Infotainment",Go USA TV (720p)
 https://brandusa-gousa-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GrjngoWesternMovies.de@SD" group-title="Eng Movies",Grjngo Western Movies (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="GrjngoWesternMovies.de@SD" group-title="Eng Movies",Grjngo Western Movies (720p)
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HomesUnderHammer.us@UK" group-title="Eng Movies",Homes Under The Hammer (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="HomesUnderHammer.us@UK" group-title="Eng Movies",Homes Under The Hammer (720p)
 https://all3media-homes-under-the-hammer-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" group-title="Gags",Just For Laughs Gags (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="JustforLaughsGags.us@SD" group-title="Gags",Just For Laughs Gags (720p)
 https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Mechplus" group-title="Gags",Mechplus (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="Mechplus" group-title="Gags",Mechplus (720p)
 https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeopleAreAwesome.us@SD" group-title="Infotainment",People are Awesome (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="PeopleAreAwesome.us@SD" group-title="Infotainment",People are Awesome (720p)
 https://jukin-peopleareawesome-2-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD" group-title="Sports",Strongman Champions League (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="StrongmanChampionsLeague.pl@SD" group-title="Sports",Strongman Champions League (720p)
 https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us@US" group-title="Infotainment",The Pet Collective International (720p)
+#EXTINF:-1 tvg-logo=" " tvg-id="ThePetCollective.us@US" group-title="Infotainment",The Pet Collective International (720p)
 https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 
 
